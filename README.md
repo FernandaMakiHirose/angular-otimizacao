@@ -34,6 +34,12 @@ Abra o `localhost:4200` no seu navegador:
 
 ![Screenshot_2](https://user-images.githubusercontent.com/72028645/130246665-fb397f27-3154-4e36-ae58-9a229923601b.png)
 
+## changeDetection
+O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do componente se o @Input() for alterado
+
+![Screenshot_3](https://user-images.githubusercontent.com/72028645/130248171-696e420a-923c-4ebf-97b1-873b17984590.png)
+
+
 ### Bibliotecas
 
 - [Angular](https://angular.io)

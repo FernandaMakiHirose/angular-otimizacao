@@ -4,6 +4,13 @@
 - Java
 - IDE
 
+# Comandos
+Após clonar o projeto:
+>npm install
+ 
+Abra o `localhost:4200` no seu navegador:
+>npm start
+
 ## enableProdMode
 É uma parte do Angular que adiciona outras configurações, remove debuggers que não precisa, otimiza o código para produção e também remove códigos da árvore de desenvolvimento do Angular que são focadas somente em desenvolvimento. 
 
@@ -26,13 +33,6 @@
 É fazer o preloading dos dados para já serem carregados em vez de serem carregados quando executar uma ação.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/72028645/130246665-fb397f27-3154-4e36-ae58-9a229923601b.png)
-
-# Comandos
-Após clonar o projeto:
->npm install
- 
-Abra o `localhost:4200` no seu navegador:
->npm start
 
 ### Bibliotecas
 

@@ -37,8 +37,7 @@ Abra o `localhost:4200` no seu navegador:
 ## changeDetection
 O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do componente se o @Input() for alterado
 
-![Screenshot_3](https://user-images.githubusercontent.com/72028645/130248171-696e420a-923c-4ebf-97b1-873b17984590.png)
-
+![aaa](https://user-images.githubusercontent.com/72028645/130250502-35ce9bed-7c9b-499b-98c2-08a320705298.png)
 
 ## Bibliotecas
 

@@ -40,7 +40,7 @@ O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do 
 ![Screenshot_3](https://user-images.githubusercontent.com/72028645/130248171-696e420a-923c-4ebf-97b1-873b17984590.png)
 
 
-### Bibliotecas
+## Bibliotecas
 
 - [Angular](https://angular.io)
 - [Bootstrap 4](https://getbootstrap.com)
@@ -50,7 +50,7 @@ O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do 
 - [ngx-translate](https://github.com/ngx-translate/core)
 - [Lodash](https://lodash.com)
 
-#### Guias
+## Guias
 
 - [Angular](docs/coding-guides/angular.md)
 - [TypeScript](docs/coding-guides/typescript.md)
@@ -59,10 +59,38 @@ O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do 
 - [Unit tests](docs/coding-guides/unit-tests.md)
 - [End-to-end tests](docs/coding-guides/e2e-tests.md)
 
-#### Documentação
+## Documentação
 
 - [I18n guide](docs/i18n.md)
 - [Working behind a corporate proxy](docs/corporate-proxy.md)
 - [Updating dependencies and tools](docs/updating.md)
 - [Using a backend proxy for development](docs/backend-proxy.md)
 - [Browser routing](docs/routing.md)
+
+## Perguntas e respostas
+### Como criar um modulo global com lazy mode?
+ng g m nomeDoModulo --route nomeDaRota --module app.module
+
+### O que é tempo de carregamento?
+Momento em que o usuário requisita a página no navegador até o momento em que ela está pronta para ser utilizada por ele
+
+### O que é tempo de execução no Angular?
+o Controle de Tempo de navegação e renderização dos elementos no DOM
+
+### para que serve o enableProdMode?
+Otimiza o código para produção e na hora da build ignora configurações do modo debug/dev
+
+### Para que serve o comando ngFor?
+É a maneira de declarar um laço de repetição no angular
+
+### o que é o evento changeDetection?
+Change Detection é uma das principais funcionalidades do Angular, responsável por marcar os componentes quando um evento ocorre ou é alterado
+
+### como um componente pai troca informações com um componente filho?
+Através das propriedades input e output
+
+### Como criar um modulo global no Angular?
+ng g m nomeDoModulo
+
+### O que é carregamento tardio?
+o carregamento só é feito quando o usuário navega para a rota do respectivo módulo

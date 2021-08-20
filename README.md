@@ -40,7 +40,6 @@ O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do 
 ![aaa](https://user-images.githubusercontent.com/72028645/130250502-35ce9bed-7c9b-499b-98c2-08a320705298.png)
 
 ## Bibliotecas
-
 - [Angular](https://angular.io)
 - [Bootstrap 4](https://getbootstrap.com)
 - [Font Awesome](http://fontawesome.io)
@@ -59,7 +58,6 @@ O `.onPush` torna o componente imutável, ele só vai tirar uma nova versão do 
 - [End-to-end tests](docs/coding-guides/e2e-tests.md)
 
 ## Documentação
-
 - [I18n guide](docs/i18n.md)
 - [Working behind a corporate proxy](docs/corporate-proxy.md)
 - [Updating dependencies and tools](docs/updating.md)

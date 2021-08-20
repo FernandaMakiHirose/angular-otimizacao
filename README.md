@@ -75,7 +75,7 @@ ng g m nomeDoModulo --route nomeDaRota --module app.module
 Momento em que o usuário requisita a página no navegador até o momento em que ela está pronta para ser utilizada por ele
 
 ### O que é tempo de execução no Angular?
-o Controle de Tempo de navegação e renderização dos elementos no DOM
+O Controle de Tempo de navegação e renderização dos elementos no DOM
 
 ### para que serve o enableProdMode?
 Otimiza o código para produção e na hora da build ignora configurações do modo debug/dev
@@ -93,4 +93,4 @@ Através das propriedades input e output
 ng g m nomeDoModulo
 
 ### O que é carregamento tardio?
-o carregamento só é feito quando o usuário navega para a rota do respectivo módulo
+O carregamento só é feito quando o usuário navega para a rota do respectivo módulo

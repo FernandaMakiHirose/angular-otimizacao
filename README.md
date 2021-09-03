@@ -1,10 +1,10 @@
 # Conceitos avançados de performance e otimização usando Angular
-## Pré-requisitos
+## Requisitos
 - Angular
 - Java
 - IDE
 
-# Comandos
+## Comandos
 Após clonar o projeto:
 >npm install
  
@@ -91,8 +91,3 @@ ng g m nomeDoModulo
 
 ### O que é carregamento tardio?
 O carregamento só é feito quando o usuário navega para a rota do respectivo módulo
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
